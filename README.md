@@ -1,0 +1,1 @@
+# mobile-application-of-word-of-the-day
